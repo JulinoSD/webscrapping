@@ -6,7 +6,7 @@ This project aim to share a litle about web scrapping using puppeteer npm lib, f
 not mine at all (i don't built it from the scratch), i copy it from Codedrop project of Rocketseat, building by Mayk Brito, on their youtube chanel 
 https://www.youtube.com/watch?v=K5yYBJhix5A. 
 It look pretty cool, i learn a lot.
-#### this project was developed using 'node version 14.5.0, and `npm version 6.14.5`.
+#### this project was developed using `node version 14.5.0`, and `npm version 6.14.5`.
 
 ## How to use:
 Very easy to use, you just need to instal puppeteer, using `$ npm i puppeteer`, inside of the folder were you project is goint to be built, knowing some javascript is good too,
@@ -19,6 +19,6 @@ Javascript, css, html, fecthing, destructor, split, handle node list to array an
 some chalenges to improve you skill.
 
 ## Errors!
-Perhaps some error will appear opening the console of the browser, take a look, i do not how to fix them, but, is not a bad code, is just the privacy of the browser.
+Perhaps some error will appear opening the console of the browser, take a look, i do not how to fix them, but, is not a bad code, is just the privacy of the browser, to avoid this error use `'ignoreHTTPSErrors': true`.
 
 ### Make it with a public account.
