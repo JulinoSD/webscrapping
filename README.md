@@ -19,6 +19,6 @@ Javascript, css, html, fecthing, destructor, split, handle node list to array an
 some chalenges to improve you skill.
 
 ## Errors!
-Perhaps some error will appear opening the console of the browser, take a look, i do not how to fix them, but, is not a bad code, is just the privacy of the browser.
+Perhaps some error will appear opening the console of the browser, take a look, i do not how to fix them, but, is not a bad code, is just the privacy of the browser, to avoid this error use `'ignoreHTTPSErrors': true`.
 
 ### Make it with a public account.
