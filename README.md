@@ -6,7 +6,7 @@ This project aim to share a litle about web scrapping using puppeteer npm lib, f
 not mine at all (i don't built it from the scratch), i copy it from Codedrop project of Rocketseat, building by Mayk Brito, on their youtube chanel 
 https://www.youtube.com/watch?v=K5yYBJhix5A. 
 It look pretty cool, i learn a lot.
-#### this project was developed using 'node version 14.5.0, and `npm version 6.14.5`.
+#### this project was developed using `node version 14.5.0`, and `npm version 6.14.5`.
 
 ## How to use:
 Very easy to use, you just need to instal puppeteer, using `$ npm i puppeteer`, inside of the folder were you project is goint to be built, knowing some javascript is good too,

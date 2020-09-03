@@ -1,12 +1,14 @@
 {
-  "name": "instagram",
+  "name": "webscraping",
   "version": "1.0.0",
-  "description": "",
+  "description": "training how to scrap, and thing about how to getting good of",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node src/insta index.js",
+    "dev":"node src index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Scraping, hack"],
+  "author": "Julino Segunda Dídimo",
   "license": "ISC"
 }
