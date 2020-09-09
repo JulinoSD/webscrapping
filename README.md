@@ -17,8 +17,13 @@ and following the teachers, you just need to install **puppeteer** once, and cal
 
     1. item 1 Install all the environment required programme like: vscdoe, or vim, node js, and github.
     2. item 2 Then pull the code using `git clone 'https://www.exemple.com'`, using prompt.
-    3. item 3 navegate to the folder where the code is in, it will get the same name as found on the repo, exemplo: `$ cd repoexemplo`, (on windows);
-    4. item 4 if you decide to use vscode, hit `$ code .`, on the folder oppened.
+    3. item 3 navegate to the folder where the code is in, it will get the same name as found on the repo, exemplo: $ cd repoexemplo, (on windows);
+    4. item 4 if you decide to use vscode, hit 
+    
+    ```
+    $ code .
+    ```
+    , on the folder oppened.
 
 </details>
 
@@ -31,4 +36,4 @@ some chalenges to improve you skill, like sanitize the content.
 ## Errors!
 Perhaps some error will appear on the instagram src, opening the console of the browser, take a look what it say, is not a bad code, is just the privacy of the site, to avoid this error use `'ignoreHTTPSErrors': true`.
 
-### Make it with a public account.
+### Make sure that you'll use a public account.
