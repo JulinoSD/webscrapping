@@ -16,16 +16,14 @@ and following the teachers, you just need to install **puppeteer** once, and cal
     </summary>
 
     1. item 1 Install all the environment required programme like: vscdoe, or vim, node js, and github.
-    2. item 2 Then pull the code using `git clone 'https://www.exemple.com'`, using prompt.
-    3. item 3 navegate to the folder where the code is in, it will get the same name as found on the repo, exemplo: $ cd repoexemplo, (on windows);
-    4. item 4 if you decide to use vscode, hit 
-    
-    ```
-    $ code .
-    ```
-    , on the folder oppened.
+    2. Then pull the code using `git clone 'https://www.exemple.com'`, using prompt.
+    3. Navegate to the folder where the code is in, it will get the same name as found on the repo, exemplo: $ cd repoexemplo, (on windows);
+    4. if you decide to use vscode, hit $ code . , on the folder oppened.
 
 </details>
+
+- [] inside the project bookScraper run `node src index.js`.
+- [] inside the project instagram run `node src/insta index.js`.
 
 ## What i learn with that?
 Javascript, css, html, fecthing, destructor, split, handle node list to array and object, file system of Node (a litle bite of write property), and energy to keep studing e learn more about coding and scrapping stuffs.
